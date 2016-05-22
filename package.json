@@ -1,0 +1,26 @@
+{
+  "name": "google-apps-script-example",
+  "version": "0.0.1",
+  "description": "An example of Google Apps Script with Browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huideyeren/google-apps-script-example.git"
+  },
+  "keywords": [
+    "Google",
+    "Apps",
+    "Script",
+    "Browserify",
+    "Typescript"
+  ],
+  "author": "Takakura Yusuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huideyeren/google-apps-script-example/issues"
+  },
+  "homepage": "https://github.com/huideyeren/google-apps-script-example#readme"
+}
